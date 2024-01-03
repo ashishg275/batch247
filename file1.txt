@@ -1,1 +1,2 @@
 Azure Devops training
+Batch 247
